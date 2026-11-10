@@ -1,7 +1,7 @@
 {
   "generator": "Pebble",
   "version": 2,
-  "siteName": "test 3",
+  "siteName": "Thomas Brink",
   "pages": [
     {
       "file": "index.html",
@@ -13,9 +13,9 @@
   "blogPage": "",
   "header": {
     "hero": {
-      "enabled": false,
-      "src": "",
-      "position": "below",
+      "enabled": true,
+      "src": "assets/images/20261110-180143-papa-thomas-sem-en-rebekka.png",
+      "position": "behind",
       "size": "medium"
     }
   },
@@ -30,7 +30,7 @@
     "secondaryColor": "#6b8b4f",
     "fontFamily": "classic",
     "borderRadius": 14,
-    "blockSpacing": 16
+    "blockSpacing": 8
   },
   "typography": {
     "styles": {
